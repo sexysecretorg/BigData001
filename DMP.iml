@@ -11,6 +11,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/main/libs/spark-assembly-1.6.0-hadoop2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/src/main/libs/spark-assembly-1.6.0-hadoop2.6.0.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.31" level="project" />
     <orderEntry type="library" name="Maven: com.typesafe:config:1.3.1" level="project" />
