@@ -3,8 +3,8 @@ package com.zsr.dmp.tools.bean
 import com.zsr.dmp.tools.utils.String2IntOrDouble
 
 /**
-  * @author: zhouyi
-  * @create: 2019-06-11 23:01:18
+  * zhouyi
+  * 2019-06-11 23:01:18
   **/
 class Log(
            val sessionid: String,

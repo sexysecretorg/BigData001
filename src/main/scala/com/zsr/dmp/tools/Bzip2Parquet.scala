@@ -4,8 +4,8 @@ import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
 
 /**
-  * @author: zhouyi
-  * @create: 2019-06-09 21:15:35
+  * zhouyi
+  * 2019-06-09 21:15:35
   * 将原始的日志文件格式转换为parquet格式文件
   * 使用snappy压缩格式
   **/

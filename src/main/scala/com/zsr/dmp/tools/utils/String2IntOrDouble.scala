@@ -1,8 +1,8 @@
 package com.zsr.dmp.tools.utils
 
 /**
-  * @author: zhouyi
-  * @create: 2019-06-11 22:58:46
+  *zhouyi
+  * 2019-06-11 22:58:46
   **/
 object String2IntOrDouble {
   // 转换Int
